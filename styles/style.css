@@ -140,10 +140,17 @@ main {
     background: #FF900E;
     width: 342px;
     padding: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
 }
 
 .ten-years-badges h2 {
     font-size: 4rem;
+    margin:0;
+}
+.ten-years-badges p {
+    font-size: 1.5rem;
 }
 
 .teams-description {
